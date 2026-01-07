@@ -6,7 +6,7 @@
 
 **Software Engineer | CPI, B. Ing.** | Montréal, QC, Canada
 
-I'm a software engineering graduate from École de Technologie Supérieure (ÉTS) in Montréal, currently a **Candidate for the Engineering Profession (CPI)** and seeking employment opportunities in software engineering as well as a supervisor for the Ordre des Ingénieurs du Québec. Feel free to reach out! 🚀
+I'm a software engineering graduate from École de Technologie Supérieure (ÉTS) in Montréal, currently eligible for the **Candidate for the Engineering Profession (CPI)** program and seeking employment opportunities in software engineering as well as a supervisor for the Ordre des Ingénieurs du Québec. Feel free to reach out! 🚀
 
 ## 🎓 Education
 
@@ -60,7 +60,7 @@ I'm a software engineering graduate from École de Technologie Supérieure (ÉTS
 
 ## 📄 Certifications
 
-- **Candidate for the Engineering Profession** - Ordre des Ingénieurs du Québec (Since 2025)
+- **Candidate for the Engineering Profession** (Eligible) - Ordre des Ingénieurs du Québec (Since 2025)
 - **AI Agents Course** - Hugging Face (June 30, 2025)
 
 ## 🌐 Languages : 🇫🇷 🇵🇹 🇬🇧
